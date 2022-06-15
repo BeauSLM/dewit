@@ -1,4 +1,4 @@
-- [ ] setup schema
+- [x] setup schema
 - [ ] design SQL queries:
     - [ ] mark todo item as done
     - [ ] make new todo item

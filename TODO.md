@@ -1,0 +1,21 @@
+- [ ] setup schema
+- [ ] design SQL queries:
+    - [ ] mark todo item as done
+    - [ ] make new todo item
+    - [ ] delete todo item
+    - [ ] get all todo items
+    - [ ] get 10 random todo items
+        - 5 low priority
+        - 3 med priority
+        - 2 high priority
+    - [ ] search todo item
+    - [ ] update todo item
+        - make this one safe lol
+- [ ] sql script to setup dummy values
+- [ ] design api endpoints
+- [ ] set up dependencies
+- [ ] code api
+    - [ ] test
+        - [ ] mocking
+        - [ ] rocket tests
+    - [ ] document

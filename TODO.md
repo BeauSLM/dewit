@@ -10,7 +10,7 @@
     - [x] make new todo item
     - [ ] update todo item
         - I'll do this later when I decide how to update them
-- [ ] sql script to setup dummy values
+- [x] sql script to setup dummy values
 - [ ] design api endpoints
 - [ ] set up dependencies
 - [ ] code api

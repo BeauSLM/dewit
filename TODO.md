@@ -1,16 +1,15 @@
 - [x] setup schema
 - [ ] design SQL queries:
-    - [ ] mark todo item as done
-    - [ ] make new todo item
-    - [ ] delete todo item
-    - [ ] get all todo items
-    - [ ] get 10 random todo items
+    - [x] mark todo item as done
+    - [x] delete todo item
+    - [x] get all todo items
+    - [x] get 10 random todo items
         - 5 low priority
         - 3 med priority
         - 2 high priority
-    - [ ] search todo item
+    - [x] make new todo item
     - [ ] update todo item
-        - make this one safe lol
+        - I'll do this later when I decide how to update them
 - [ ] sql script to setup dummy values
 - [ ] design api endpoints
 - [ ] set up dependencies

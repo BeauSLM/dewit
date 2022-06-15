@@ -20,6 +20,7 @@ This allows updating of the todo list graphically OR programmatically.
 
 ## Web gui
 
+- fuzzy finder style search for items
 - grapical method to call everything in the api
 - checked off todo items
     - cross-through

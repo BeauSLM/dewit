@@ -1,0 +1,19 @@
+[package]
+name = "dewit"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies.rocket]
+version = "0.5.0-rc.2"
+features = ["json", "http2"]
+
+[dependencies.rocket_db_pools]
+version = "0.1.0-rc.2"
+features = ["sqlx_sqlite"]
+
+[dependencies.sqlx]
+default-features = false
+version = "0.5"
+features = ["macros"]

@@ -1,4 +1,13 @@
-delete from items;
+drop table if exists items;
+
+create table items (
+    done          boolean default 0,
+    name          text not null,
+    priority      tinyint not null,
+    description   text,
+    deadline      text,
+    id            integer primary key autoincrement
+);
 
 insert into items
 (name, priority, description, deadline)

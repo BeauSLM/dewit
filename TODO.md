@@ -11,9 +11,11 @@
     - [ ] update todo item
         - I'll do this later when I decide how to update them
 - [x] sql script to setup dummy values
-- [ ] design api endpoints
-- [ ] set up dependencies
+- [x] set up dependencies
 - [ ] code api
+    - [ ] look into forms and query strings (looks cool ngl)
+    - [ ] figure out how uri! and routes! interact (when routes are mounted somewhere)
+        - [ ] atm, uri! ignores prefixes added to a route by routes! (afaik) so how do i have it not do that
     - [ ] test
         - [ ] mocking
         - [ ] rocket tests
